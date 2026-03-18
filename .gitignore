@@ -215,3 +215,7 @@ __marimo__/
 # OS files
 .DS_Store
 Thumbs.db
+
+#files I dont use
+src/collect_instagram.py
+data/raw/instaloader_captions.csv
