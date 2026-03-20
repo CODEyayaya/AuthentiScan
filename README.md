@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF.svg)](https://www.kaggle.com/datasets/divishavarmabalaraju/ai-vs-human-instagram-captions)
 [![Accuracy](https://img.shields.io/badge/Accuracy-97.47%25-brightgreen.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19128212.svg)](https://doi.org/10.5281/zenodo.19128212)
 
 ---
 
@@ -158,6 +159,7 @@ All results and plots are saved automatically to the `results/` folder.
 The full research paper is available in the `paper/` directory.
 
 > Divisha Varma Balaraju. *AuthentiScan: PSO-Optimized Hybrid Feature Fusion for AI-Generated Instagram Caption Detection.* Independent Researcher, 2025.
+> doi:10.5281/zenodo.19128212
 
 ---
 
